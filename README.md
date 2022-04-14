@@ -7,8 +7,8 @@ and will handle broadcasting messages to all users. Client.py will require the u
 to server, and will try to connect. If connection was successful, display the chatbox and allow user to send<br />
 messages. If not, program will alert the user.
 
-<img src="/Demo/Server.png" width="500" height="643">
-<img src="/Demo/Client.png" width="500" height="621">
+<img src="/Demo/Server.png" width="400" height="514"> <img src="/Demo/Client.png" width="400" height="496">
+
 
 ## Requirements
 - Must setup router with port forward to your server
