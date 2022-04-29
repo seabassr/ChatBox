@@ -2,10 +2,7 @@
 Solo project for Computer Networks
 
 ## Description
-Both python scripts will display a basic GUI interface. Server.py will display the users currently in the server,<br />
-and will handle broadcasting messages to all users. Client.py will require the user to type in public IP address<br />
-to server, and will try to connect. If connection was successful, display the chatbox and allow user to send<br />
-messages. If not, program will alert the user.
+Both python scripts will display a basic GUI interface. Server.py will display the users currently in the server, and will handle broadcasting messages to all users. Client.py will require the user to type in public IP address to server, and will try to connect. If connection was successful, display the chatbox and allow user to send messages. If not, program will alert the user.
 
 <img src="/Demo/Server.png" width="400" height="514"> <img src="/Demo/Client.png" width="400" height="496">
 
